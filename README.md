@@ -10,7 +10,7 @@ The application is built using Streamlit and includes three main modules: a Pric
 - Web Framework: Streamlit
 - Tools & Methodologies: Web Scraping, Data Cleaning, Feature Engineering, Supervised and Unsupervised Machine Learning, Hybrid Recommender Systems
 
-Key Features & Modules
+## Key Features & Modules
 1. Price Predictor Module 
   This module allows users to get a quick and accurate price estimate for a property. By providing details such as location, number of rooms, and square footage, the user receives a price prediction in seconds.
   Skills Demonstrated: This module highlights proficiency in supervised machine learning and feature engineering. A Random Forest Regressor model was trained on the cleaned, structured data to provide robust   predictions.
