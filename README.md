@@ -1,5 +1,5 @@
 # **Real Estate Assistant**
-This project is an end-to-end real estate application designed to showcase a comprehensive data science skill set. It handles the entire machine learning lifecycle, from dealing with messy, real-world data to deploying an intuitive application. The goal is to provide end-users—both buyers and sellers—with a powerful "assistant" to help them make informed decisions with just a few clicks.
+This project is an end-to-end real estate application designed to showcase a comprehensive data science skill set. It handles the entire machine learning lifecycle, from dealing with messy, real-world raw data to deploying an intuitive application. The goal is to provide end-users—both buyers and sellers—with a powerful "assistant" to help them make informed decisions with just a few clicks.
 
 The application is built using Streamlit and includes three main modules: a Price Predictor, an Analytics Dashboard, and a Recommender.
 
